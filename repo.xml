@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<extensions>
+  <details>
+    <title lang="EN">Mike Spertus' Squeezebox plugins</title>
+    <plugins>
+      <plugin name="DatabaseQuery" version="2.4.3923" minTarget="8.0.0" maxTarget="8.*">
+        <title lang="EN">Database Query</title>
+        <desc lang="EN">Makes it possible to define and execute custom SQL statements towards SqueezeCenter database. The result can be displayed in the browser or exported as CSV or XML files. (Boom, Transporter, Classic, Receiver, Controller, Radio, Touch, SoftSqueeze, SqueezePlay)</desc>
+	<changes lang="EN">Mike taking over maintenance from Erland (Thanks, Erland!)</changes>
+	<creator>Mike Spertus, Erland Isaksson</creator>
+	<email>mike@spertus.com</email>
+        <url>http://downloads.isaksson.info/download/do/downloadapplication?name=slimserver-databasequery&amp;filename=DatabaseQuery-2.4.3923.zip</url>
+        <sha>0e7848f3a6e25dc41e1ab38e17fdb5837641afad</sha>
+        <link>http://wiki.slimdevices.com/index.php/Database_Query_plugin</link>
+      </plugin>
+    </plugins>
+  </details>
+</extensions>
+  
